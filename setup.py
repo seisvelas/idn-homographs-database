@@ -8,8 +8,7 @@ setup(
   author = 'Alex Alvarado',
   author_email = 'alex@flowcrypt.com',
   url = 'https://github.com/flowcrypt/idn-homograph-database',
-  # Note: The below release doesn't exist yet!
-  download_url = 'https://github.com/FlowCrypt/idn-homographs-database/archive/0.12.tar.gz',
+  download_url = 'https://github.com/seisvelas/idn-homographs-database/archive/0.12.tar.gz',
   keywords = ['IDN', 'homograph', 'attack', 'security'],
   install_requires = [],
   include_package_data = True,
