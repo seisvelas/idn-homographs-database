@@ -13,7 +13,7 @@ setup(
   keywords = ['IDN', 'homograph', 'attack', 'security'],
   install_requires = [],
   include_package_data = True,
-  package_data={'': ['homograph/homographs.json']},
+  package_data={'homograph': ['homographs.json']},
   classifiers = [
     'Development Status :: 1 - Planning',
     'Intended Audience :: Developers',
